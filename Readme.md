@@ -104,19 +104,6 @@ It also kind of explains that when MagPi, the official Raspberry Pi Magazine, co
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
-</div>
-
-
-<h1 align=center> 🎊OUR VALUABLE CONTRIBUTORS🎊 </h1>
-<p align="center">
-  
-	
-<a href="https://github.com/The-Shivam-garg/Smart-mirror/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=The-Shivam-garg/Smart-mirror" />
-</a>
-
-<h1 align=center>Happy Coding 👨‍💻 </h1>
-
 
 </div>
 
